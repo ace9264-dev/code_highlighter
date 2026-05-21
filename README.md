@@ -11,12 +11,6 @@ A lightweight VS Code extension that lets you highlight selected code with vibra
 - **Remove Highlights**: Select a highlighted region, right-click, and choose **Remove Highlight**.
 - **Clear All**: Run **CodeHighlighter: Clear All Highlights** from the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) to wipe every highlight in the active file.
 
-## Installation
-
-1. Copy the extension folder into your VS Code workspace or local extensions directory.
-2. Run `npm install` to install dependencies.
-3. Press `F5` in VS Code to open a new Extension Development Host window, or package it with `vsce package` and install the `.vsix` file.
-
 ## Usage
 
 1. Open any file in VS Code.
